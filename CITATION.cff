@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DL-for-MI-BCI
+message: >-
+  Cite Tibrewal et al. (2022) to use or refer to this
+  code.
+type: software
+authors:
+  - given-names: Navneet
+    family-names: Tibrewal
+    affiliation: >-
+      Department of Cognitive Science and Artificial
+      Intelligence, Tilburg University
+  - given-names: Nikki
+    family-names: Leeuwis
+    affiliation: >-
+      Department of Cognitive Science and Artificial
+      Intelligence, Tilburg University
+  - given-names: Maryam
+    family-names: Alimardani
+    affiliation: >-
+      Department of Cognitive Science and Artificial
+      Intelligence, Tilburg University
